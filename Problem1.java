@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.ArrayList;
-//Mc Curvin Royeras - A121
+//Mc Curvin Royeras -- A121
 public class Problem1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in); //Instantiation of Scanner

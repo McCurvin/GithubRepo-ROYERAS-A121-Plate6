@@ -1,5 +1,5 @@
 import java.util.*;
-//Mc Curvin Royeras - A121
+//Mc Curvin Royeras -- A121
 public class Problem3 {
 
     private static final ArrayList<ArrayList<Integer>> adjacent = new ArrayList<>(); // adjacency list

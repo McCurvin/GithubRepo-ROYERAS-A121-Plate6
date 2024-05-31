@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Mc Curvin Royeras - A121
+//Mc Curvin Royeras -- A121
 public class Problem2 {
     public static void main(String[] args) {
         int ii, jj, n;

@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-//Mc Curvin Royeras - A121
+//Mc Curvin Royeras -- A121
 @SuppressWarnings("MismatchedQueryAndUpdateOfCollection")
 public class Problem4 {
 

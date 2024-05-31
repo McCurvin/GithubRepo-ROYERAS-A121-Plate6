@@ -1,5 +1,5 @@
 import java.util.*;
-//Mc Curvin Royeras - A121
+//Mc Curvin Royeras -- A121
 public class Problem5 {
     private static final ArrayList<ArrayList<Integer>> adjac = new ArrayList<>();
     private static int[] color;

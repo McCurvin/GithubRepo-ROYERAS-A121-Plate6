@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Mc Curvin Royeras - A121
+//Mc Curvin Royeras -- A121
 public class Problem7 {
     public static void main(String[] args) {
         int verts, edges; int ii, jj;

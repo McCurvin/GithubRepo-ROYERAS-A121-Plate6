@@ -1,5 +1,5 @@
 import java.util.*;
-//Mc Curvin Royeras - A121
+//Mc Curvin Royeras -- A121
 public class Problem8 {
     private static int[][] adj1, adj2;
     private static int verts;
